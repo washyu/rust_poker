@@ -1,0 +1,6 @@
+[target.x86_64-pc-windows-msvc]
+rustflags = [
+    "-L", "C:/Users/washy/scoop/apps/sdl2/current/lib",
+    "-L", "C:/Users/washy/scoop/apps/sdl2-image/current/lib",
+    "-L", "C:/Users/washy/scoop/apps/sdl2-ttf/current/lib"
+]
